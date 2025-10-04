@@ -3,11 +3,7 @@
   "notes": "Performance and UI improvements.",
   "assets": {
     "linux-arm64": {
-      "url": "https://github.com/blox24-tech/blox24-updates/releases/download/v1.0.2/blockerd-linux-arm64",
-      "sha256": "791049378f2df774d24338ff6dc17e148158db8b3d0915ec83492760e56c39b5"
-    },
-    "linux-arm": {
-      "url": "https://github.com/blox24-tech/blox24-updates/releases/download/v1.0.2/blockerd-linux-arm",
+      "url": "https://raw.githubusercontent.com/blox24-tech/blox24-updates/main/artifacts/blockerd-linux-arm64",
       "sha256": "791049378f2df774d24338ff6dc17e148158db8b3d0915ec83492760e56c39b5"
     }
   }
