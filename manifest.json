@@ -1,10 +1,10 @@
 {
-  "version": "1.0.2",
-  "notes": "Performance and UI improvements.",
+  "version": "1.0.3",
+  "notes": "Devices tab IP filter and fixes.",
   "assets": {
     "linux-arm64": {
       "url": "https://raw.githubusercontent.com/blox24-tech/blox24-updates/main/artifacts/blockerd-linux-arm64",
-      "sha256": "791049378f2df774d24338ff6dc17e148158db8b3d0915ec83492760e56c39b5"
+      "sha256": "8ace0914a01fef020facfe14572f9c66faa9d3ec912977f872231bea11fd4132"
     }
   }
 }
