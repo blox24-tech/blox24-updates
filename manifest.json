@@ -1,0 +1,12 @@
+{
+  "latest": {
+    "version": "1.0.2",
+    "build": 102,
+    "date": "2025-10-04",
+    "notes": "Performance and UI improvements.",
+    "assets": {
+      "linux-arm64": "https://github.com/blox24-tech/blox24-updates/releases/download/v1.0.2/blockerd-linux-arm64",
+      "linux-arm": "https://github.com/blox24-tech/blox24-updates/releases/download/v1.0.2/blockerd-linux-arm"
+    }
+  }
+}
