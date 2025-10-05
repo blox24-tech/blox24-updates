@@ -1,10 +1,18 @@
 {
-  "version": "1.0.3",
-  "notes": "Devices tab IP filter and fixes.",
+  "version": "v1.0.4",
   "assets": {
+    "linux-amd64": {
+      "url": "https://github.com/blox24-tech/blockerd/releases/download/v1.0.4/blockerd-linux-amd64",
+      "sha256": "b848a77ed98f6f00021ac19fe6fb1981a077dae6603e0881acd4c3d0e37985df"
+    },
     "linux-arm64": {
-      "url": "https://raw.githubusercontent.com/blox24-tech/blox24-updates/main/artifacts/blockerd-linux-arm64",
-      "sha256": "8ace0914a01fef020facfe14572f9c66faa9d3ec912977f872231bea11fd4132"
+      "url": "https://github.com/blox24-tech/blockerd/releases/download/v1.0.4/blockerd-linux-arm64",
+      "sha256": "f416d657d593825cf1d35acf28a048ad116d4f9b4f3ef51aa2bc238095374128"
+    },
+    "linux-arm": {
+      "url": "https://github.com/blox24-tech/blockerd/releases/download/v1.0.4/blockerd-linux-armv7",
+      "sha256": "d5d35fa48a264626d934ea7b92868308ac208edbf7ed57dcd4f04c2763ee0da9"
     }
-  }
+  },
+  "signature": ""
 }
